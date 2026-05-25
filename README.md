@@ -1,5 +1,5 @@
 [<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&text=Quynh%20Huong&fontSize=40&fontAlignY=55&desc=Fullstack%20Developer%20%7C%20Website%20Developer&descAlignY=75&descSize=20&color=0:1a6fc4,100:1a6fc4&fontColor=20458" alt="Quynh Huong" />
-](https://capsule-render.vercel.app/api?type=waving&height=150&text=Quynh%20Huong&fontSize=40&fontAlignY=55&desc=Fullstack%20Developer%20%7C%20Website%20Developer&descAlignY=75&descSize=20&color=0:1a6fc4,100:1a6fc4&fontColor=ffffff
+](https://capsule-render.vercel.app/api?type=waving&height=150&text=Quynh%20Huong&fontSize=40&fontAlignY=55&desc=Fullstack%20Developer%20%7C%20Website%20Developer&descAlignY=75&descSize=20&color=0:1a6fc4,100:1a6fc4&fontColor=20458
 )
 
 ---
@@ -71,4 +71,4 @@
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:1a6fc4,100:1a6fc4"/>
