@@ -1,7 +1,6 @@
-[<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Hi%20there!%20I'm%20Quynh%20Huong%20👋&fontSize=32&fontAlignY=75&color=gradient&customColorList=1&fontColor=333333" alt="Quynh Huong" />
-](https://capsule-render.vercel.app/api?type=waving&height=120&text=Hi%20there!%20I'm%20Quynh%20Huong%20👋&fontSize=32&fontAlignY=75&color=gradient&customColorList=1&fontColor=333333
+[<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&text=Quynh%20Huong&fontSize=40&fontAlignY=55&desc=Fullstack%20Developer%20%7C%20Website%20Developer&descAlignY=75&descSize=20&color=0:1a6fc4,100:1a6fc4&fontColor=20458" alt="Quynh Huong" />
+](https://capsule-render.vercel.app/api?type=waving&height=150&text=Quynh%20Huong&fontSize=40&fontAlignY=55&desc=Fullstack%20Developer%20%7C%20Website%20Developer&descAlignY=75&descSize=20&color=0:1a6fc4,100:1a6fc4&fontColor=ffffff
 )
-<h2 align="center">Fullstack Developer | Website Developer</h2>
 
 ---
 
@@ -50,12 +49,6 @@
 
 ---
 
-## 📌 Projects
-
-*(Cập nhật sau)*
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -67,13 +60,13 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://linkedin.com/in/lnqhuong0101" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="YOUR_FACEBOOK_URL" target="_blank">
+  <a href="https://www.facebook.com/lnqhuong04/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="YOUR_INSTAGRAM_URL" target="_blank">
+  <a href="https://www.instagram.com/lnqhuong04/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
